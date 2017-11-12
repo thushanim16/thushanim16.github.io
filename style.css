@@ -1,0 +1,43 @@
+/* Text */
+/* Add your styling for your text here */
+h1, h2, h3, h4, h5, h6 {
+    /* Let's add a font for our headings */
+}
+
+p, * {
+    font-family: 'Bookman', sans-serif;
+}
+
+img.pic {
+  position: relative;
+
+}
+#snapchat {
+  <width="100px"><length="100px">
+}
+#instagram {
+  <width="100px"><length="100px">
+}
+
+
+/* Nav bar */
+/*nav {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1000;
+    min-height: 50px;
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+    display: block;
+    background-color: #eeeeee;
+}*/
+
+/* Add more nav bar attributes and styling here */
+
+/* Add scroll link attributes here */
+
+/* Content */
+/* Add some styling for your content here */
